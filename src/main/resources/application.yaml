@@ -34,4 +34,4 @@ spring:
           contentType: application/json
         output:
           destination: shop
-          contentType: application/jsoncation/json
+          contentType: application/json
